@@ -6,6 +6,7 @@ Text
    :titlesonly:
 
    hyperlink
+   tab-stops
    font-highlight-color
    paragraph-format
    font
